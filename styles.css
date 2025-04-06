@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    text-align: center;
+    max-width: 800px;
+    margin: 2rem auto;
+    background: white;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+  }
+  
+  h1, h2, h3 , h4 ,h5 {
+    color: black;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.5rem;
+  }
+  
+  h1 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.5rem;
+  }
+  
+  .section {
+    margin-bottom: 1.5rem;
+  }
+  
+  .section h2 {
+    color: black;
+    border-bottom: 1px solid blue;
+    padding-bottom: 0.3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .info p,
+  .experience p,
+  .education p {
+    margin: 0.3rem 0;
+  }
+  
+  .item-title {
+    font-weight: bold;
+  }
+  
+  .date {
+    float: right;
+    color: #888;
+  }
+  
+  ul {
+    padding-left: 1.2rem;
+  }
+  
